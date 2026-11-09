@@ -1,17 +1,10 @@
 # home_task3
 
-A new Flutter project.
+<img width="499" height="922" alt="2026-11-09_15-01-06" src="https://github.com/user-attachments/assets/16a55c9b-9ce9-4bed-a018-e847ec2b21be" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="501" height="918" alt="2026-11-09_15-01-13" src="https://github.com/user-attachments/assets/2e019128-0f0e-4688-8016-de0dd7f1bb87" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<img width="497" height="922" alt="2026-11-09_15-01-29" src="https://github.com/user-attachments/assets/41754cb3-5c99-4ea0-9fb0-a64cadb0f40c" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
